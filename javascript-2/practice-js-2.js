@@ -10,7 +10,7 @@
 */
 
 //CODE HERE
-
+const gitDefinition = "a means to manage code"
 //////////////////PROBLEM 2////////////////////
 /*
     Create a variable called 'gitHubDefinition'.  
@@ -18,7 +18,7 @@
 */
 
 //CODE HERE
-
+const gitHubDefinition = "a means to manage code on the cloud"
 //////////////////PROBLEMS 3 - 9////////////////////
 /*
     For the next several problems you will be creating objects containing information about different git 
@@ -34,6 +34,9 @@
 */
 
 //CODE HERE
+const init = {
+    git init: "tell git to start a repository in the pwd"
+};
 
 //////////////////PROBLEM 4////////////////////
 /*
@@ -42,7 +45,9 @@
 */
 
 //CODE HERE
-
+const clone = {
+    git clone: "used to copy a git repository from one place into another"
+};
 //////////////////PROBLEM 5////////////////////
 /*
     Create an object called 'status' with 'description' and 'code' properties 
@@ -50,7 +55,9 @@
 */
 
 //CODE HERE
-
+const status = {
+    git status: "used to displays the state of the working directory and the staging area."
+};
 //////////////////PROBLEM 6////////////////////
 /*
     Create an object called 'add' with 'description' and 'code' properties 
@@ -58,7 +65,9 @@
 */
 
 //CODE HERE
-
+const add = {
+    git add: "used to send your PWD to the stagging area."
+};
 //////////////////PROBLEM 7////////////////////
 /*
     Create an object called 'commit' with 'description' and 'code' properties
@@ -66,7 +75,9 @@
 */
 
 //CODE HERE
-
+const add = {
+    git commit -m: "used to save your files in stagging to the repository you are working in."
+};
 //////////////////PROBLEM 8////////////////////
 /*
     Create an object called 'addRemote' with 'description' and 'code' properties
@@ -74,7 +85,9 @@
 */
 
 //CODE HERE
-
+const add { 
+    git addRemote: "lets you create, view, and delete connections to other repositories."
+};
 //////////////////PROBLEM 9////////////////////
 /*
     Create an object called 'push' with 'description' and 'code' properties 
@@ -82,3 +95,6 @@
 */
 
 //CODE HERE
+const push {
+    git push: "used to send your local repository to a remote repository."
+};

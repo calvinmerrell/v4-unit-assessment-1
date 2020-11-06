@@ -30,7 +30,7 @@ section {
     height: 150px;
     margin: 10px;
 }
-.section1-text{
+.text1 {
     float: left;
 }
 .CSSlogo{
@@ -39,6 +39,6 @@ section {
     width: 100px;
     margin: 10px;
 }
-.sectioin2-text{
+.text2{
     float: right;
 }
