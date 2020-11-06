@@ -1,0 +1,44 @@
+header {
+    Width: 100vw;
+    Height: 20vh;
+    border: solid 2px black;
+    background-color: rgb(241, 124, 124);
+    display: inline-block;
+}
+#site-heading{
+    margin-top: 50px;
+    display: inline-block;
+}
+.nav-item {
+    margin: 10px;
+    font-size: 25px;
+    display: inline-block;  
+}
+section {
+    Margin: 10px;
+    padding: 10px;
+    height: 50vh;
+    border: 5px dotted black;
+}
+.section-title {
+    margin-left: 50px;
+}
+.html5logo {
+    float: left;    
+ margin: 0 15px 0 0;
+    width: 150px;
+    height: 150px;
+    margin: 10px;
+}
+.section1-text{
+    float: left;
+}
+.CSSlogo{
+    float: right;    
+    margin: 0 0 0 15px;
+    width: 100px;
+    margin: 10px;
+}
+.sectioin2-text{
+    float: right;
+}
